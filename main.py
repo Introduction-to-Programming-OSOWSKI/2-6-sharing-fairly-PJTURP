@@ -1,5 +1,5 @@
-#define shairFair
-def shairFair(x,y):
+#define shareFair
+def shareFair(x,y):
     if x % y == 0:
         return True
     
